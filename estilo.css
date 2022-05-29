@@ -1,0 +1,44 @@
+/*
+Udemy Jamilton Damasceno
+modelo de caixa
+Desenvolvimento web
+
+
+.conteudo{
+    border: 1px solid red;
+    /*padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    ou
+    em sentido horário
+    padding: 20px 15px 10px 5px;
+    ou
+    vertical - horizontal
+    padding: 20px 5px;
+    ou
+    
+    padding: 20px;
+
+    /*as margens são configuradas da mesma forma
+
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left:20px;
+    margin-bottom:20px;
+    
+    margin:10px;
+    
+
+    width:150px;
+}
+
+.conteudo2{
+    margin:5px;
+    width: 10px;
+    border: 1px solid red;
+}
+
+/*sempre que um elemento estiver abaixo do outro ou 
+ao  lado do outro, a distância entre eles será a
+margem maior.*/
