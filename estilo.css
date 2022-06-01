@@ -42,3 +42,14 @@ Desenvolvimento web
 /*sempre que um elemento estiver abaixo do outro ou 
 ao  lado do outro, a distância entre eles será a
 margem maior.*/
+
+
+#noticia{
+    background: f9f9f9;
+    border: 1px solid gray;
+    padding: 10px;
+}
+
+h2{
+    margin: 0px;
+}
